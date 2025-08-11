@@ -3,6 +3,7 @@ Rainbow:
 green 
 yellow
 red
+violet
 blue
 purple
 
