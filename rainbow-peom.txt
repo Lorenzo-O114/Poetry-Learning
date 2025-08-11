@@ -1,0 +1,8 @@
+Rainbow:
+
+green 
+yellow
+red
+blue
+
+These are the colours of the rainbow.
